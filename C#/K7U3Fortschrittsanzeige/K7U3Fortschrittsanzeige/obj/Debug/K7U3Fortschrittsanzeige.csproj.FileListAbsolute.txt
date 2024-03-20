@@ -1,0 +1,10 @@
+C:\Users\ziyul\source\repos\K7U3Fortschrittsanzeige\K7U3Fortschrittsanzeige\bin\Debug\K7U3Fortschrittsanzeige.exe.config
+C:\Users\ziyul\source\repos\K7U3Fortschrittsanzeige\K7U3Fortschrittsanzeige\bin\Debug\K7U3Fortschrittsanzeige.exe
+C:\Users\ziyul\source\repos\K7U3Fortschrittsanzeige\K7U3Fortschrittsanzeige\bin\Debug\K7U3Fortschrittsanzeige.pdb
+C:\Users\ziyul\source\repos\K7U3Fortschrittsanzeige\K7U3Fortschrittsanzeige\obj\Debug\K7U3Fortschrittsanzeige.csproj.AssemblyReference.cache
+C:\Users\ziyul\source\repos\K7U3Fortschrittsanzeige\K7U3Fortschrittsanzeige\obj\Debug\K7U3Fortschrittsanzeige.Form1.resources
+C:\Users\ziyul\source\repos\K7U3Fortschrittsanzeige\K7U3Fortschrittsanzeige\obj\Debug\K7U3Fortschrittsanzeige.Properties.Resources.resources
+C:\Users\ziyul\source\repos\K7U3Fortschrittsanzeige\K7U3Fortschrittsanzeige\obj\Debug\K7U3Fortschrittsanzeige.csproj.GenerateResource.cache
+C:\Users\ziyul\source\repos\K7U3Fortschrittsanzeige\K7U3Fortschrittsanzeige\obj\Debug\K7U3Fortschrittsanzeige.csproj.CoreCompileInputs.cache
+C:\Users\ziyul\source\repos\K7U3Fortschrittsanzeige\K7U3Fortschrittsanzeige\obj\Debug\K7U3Fortschrittsanzeige.exe
+C:\Users\ziyul\source\repos\K7U3Fortschrittsanzeige\K7U3Fortschrittsanzeige\obj\Debug\K7U3Fortschrittsanzeige.pdb

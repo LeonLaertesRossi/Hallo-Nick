@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ziyul\\source\\repos\\K7U3Fortschrittsanzeige\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03E7EFAC-BBAC-4AB9-999C-B05441223821}|K7U3Fortschrittsanzeige\\K7U3Fortschrittsanzeige.csproj|c:\\users\\ziyul\\source\\repos\\k7u3fortschrittsanzeige\\k7u3fortschrittsanzeige\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E7EFAC-BBAC-4AB9-999C-B05441223821}|K7U3Fortschrittsanzeige\\K7U3Fortschrittsanzeige.csproj|solutionrelative:k7u3fortschrittsanzeige\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E7EFAC-BBAC-4AB9-999C-B05441223821}|K7U3Fortschrittsanzeige\\K7U3Fortschrittsanzeige.csproj|C:\\Users\\ziyul\\source\\repos\\K7U3Fortschrittsanzeige\\k7u3fortschrittsanzeige\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03E7EFAC-BBAC-4AB9-999C-B05441223821}|K7U3Fortschrittsanzeige\\K7U3Fortschrittsanzeige.csproj|solutionrelative:k7u3fortschrittsanzeige\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ziyul\\source\\repos\\K7U3Fortschrittsanzeige\\K7U3Fortschrittsanzeige\\Form1.cs",
+              "RelativeDocumentMoniker": "K7U3Fortschrittsanzeige\\Form1.cs",
+              "ToolTip": "C:\\Users\\ziyul\\source\\repos\\K7U3Fortschrittsanzeige\\K7U3Fortschrittsanzeige\\Form1.cs",
+              "RelativeToolTip": "K7U3Fortschrittsanzeige\\Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T07:51:28.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\ziyul\\source\\repos\\K7U3Fortschrittsanzeige\\K7U3Fortschrittsanzeige\\Form1.cs",
+              "RelativeDocumentMoniker": "K7U3Fortschrittsanzeige\\Form1.cs",
+              "ToolTip": "C:\\Users\\ziyul\\source\\repos\\K7U3Fortschrittsanzeige\\K7U3Fortschrittsanzeige\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "K7U3Fortschrittsanzeige\\Form1.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T07:40:43.344Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

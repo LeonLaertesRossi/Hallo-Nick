@@ -1,0 +1,7 @@
+C:\Users\ziyul\source\repos\K9U3_Steuern_Nick\K9U3_Steuern_Nick\bin\Debug\K9U3_Steuern_Nick.exe.config
+C:\Users\ziyul\source\repos\K9U3_Steuern_Nick\K9U3_Steuern_Nick\bin\Debug\K9U3_Steuern_Nick.exe
+C:\Users\ziyul\source\repos\K9U3_Steuern_Nick\K9U3_Steuern_Nick\bin\Debug\K9U3_Steuern_Nick.pdb
+C:\Users\ziyul\source\repos\K9U3_Steuern_Nick\K9U3_Steuern_Nick\obj\Debug\K9U3_Steuern_Nick.csproj.AssemblyReference.cache
+C:\Users\ziyul\source\repos\K9U3_Steuern_Nick\K9U3_Steuern_Nick\obj\Debug\K9U3_Steuern_Nick.csproj.CoreCompileInputs.cache
+C:\Users\ziyul\source\repos\K9U3_Steuern_Nick\K9U3_Steuern_Nick\obj\Debug\K9U3_Steuern_Nick.exe
+C:\Users\ziyul\source\repos\K9U3_Steuern_Nick\K9U3_Steuern_Nick\obj\Debug\K9U3_Steuern_Nick.pdb

@@ -1,0 +1,10 @@
+C:\Users\ziyul\source\repos\K10U3_Autofahren_nick_v1\K10U3_Autofahren_nick_v1\bin\Debug\K10U3_Autofahren_nick_v1.exe.config
+C:\Users\ziyul\source\repos\K10U3_Autofahren_nick_v1\K10U3_Autofahren_nick_v1\bin\Debug\K10U3_Autofahren_nick_v1.exe
+C:\Users\ziyul\source\repos\K10U3_Autofahren_nick_v1\K10U3_Autofahren_nick_v1\bin\Debug\K10U3_Autofahren_nick_v1.pdb
+C:\Users\ziyul\source\repos\K10U3_Autofahren_nick_v1\K10U3_Autofahren_nick_v1\obj\Debug\K10U3_Autofahren_nick_v1.csproj.AssemblyReference.cache
+C:\Users\ziyul\source\repos\K10U3_Autofahren_nick_v1\K10U3_Autofahren_nick_v1\obj\Debug\K10U3_Autofahren_nick_v1.Form1.resources
+C:\Users\ziyul\source\repos\K10U3_Autofahren_nick_v1\K10U3_Autofahren_nick_v1\obj\Debug\K10U3_Autofahren_nick_v1.Properties.Resources.resources
+C:\Users\ziyul\source\repos\K10U3_Autofahren_nick_v1\K10U3_Autofahren_nick_v1\obj\Debug\K10U3_Autofahren_nick_v1.csproj.GenerateResource.cache
+C:\Users\ziyul\source\repos\K10U3_Autofahren_nick_v1\K10U3_Autofahren_nick_v1\obj\Debug\K10U3_Autofahren_nick_v1.csproj.CoreCompileInputs.cache
+C:\Users\ziyul\source\repos\K10U3_Autofahren_nick_v1\K10U3_Autofahren_nick_v1\obj\Debug\K10U3_Autofahren_nick_v1.exe
+C:\Users\ziyul\source\repos\K10U3_Autofahren_nick_v1\K10U3_Autofahren_nick_v1\obj\Debug\K10U3_Autofahren_nick_v1.pdb

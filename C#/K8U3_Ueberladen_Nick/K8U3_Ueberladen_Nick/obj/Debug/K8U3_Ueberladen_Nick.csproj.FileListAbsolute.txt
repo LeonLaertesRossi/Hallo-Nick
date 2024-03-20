@@ -1,0 +1,7 @@
+C:\Users\ziyul\source\repos\K8U3_Ueberladen_Nick\K8U3_Ueberladen_Nick\bin\Debug\K8U3_Ueberladen_Nick.exe.config
+C:\Users\ziyul\source\repos\K8U3_Ueberladen_Nick\K8U3_Ueberladen_Nick\bin\Debug\K8U3_Ueberladen_Nick.exe
+C:\Users\ziyul\source\repos\K8U3_Ueberladen_Nick\K8U3_Ueberladen_Nick\bin\Debug\K8U3_Ueberladen_Nick.pdb
+C:\Users\ziyul\source\repos\K8U3_Ueberladen_Nick\K8U3_Ueberladen_Nick\obj\Debug\K8U3_Ueberladen_Nick.csproj.AssemblyReference.cache
+C:\Users\ziyul\source\repos\K8U3_Ueberladen_Nick\K8U3_Ueberladen_Nick\obj\Debug\K8U3_Ueberladen_Nick.csproj.CoreCompileInputs.cache
+C:\Users\ziyul\source\repos\K8U3_Ueberladen_Nick\K8U3_Ueberladen_Nick\obj\Debug\K8U3_Ueberladen_Nick.exe
+C:\Users\ziyul\source\repos\K8U3_Ueberladen_Nick\K8U3_Ueberladen_Nick\obj\Debug\K8U3_Ueberladen_Nick.pdb

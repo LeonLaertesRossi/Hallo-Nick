@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ziyul\\source\\repos\\K9U2_Kontofuehrung_Nick\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A04204D4-D658-404B-A445-1A5873367ECA}|K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick.csproj|C:\\Users\\ziyul\\source\\repos\\K9U2_Kontofuehrung_Nick\\k9u2_kontofuehrung_nick\\jsonfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04204D4-D658-404B-A445-1A5873367ECA}|K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick.csproj|solutionrelative:k9u2_kontofuehrung_nick\\jsonfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04204D4-D658-404B-A445-1A5873367ECA}|K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick.csproj|C:\\Users\\ziyul\\source\\repos\\K9U2_Kontofuehrung_Nick\\k9u2_kontofuehrung_nick\\nutzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04204D4-D658-404B-A445-1A5873367ECA}|K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick.csproj|solutionrelative:k9u2_kontofuehrung_nick\\nutzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04204D4-D658-404B-A445-1A5873367ECA}|K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick.csproj|C:\\Users\\ziyul\\source\\repos\\K9U2_Kontofuehrung_Nick\\k9u2_kontofuehrung_nick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04204D4-D658-404B-A445-1A5873367ECA}|K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick.csproj|solutionrelative:k9u2_kontofuehrung_nick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04204D4-D658-404B-A445-1A5873367ECA}|K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick.csproj|c:\\users\\ziyul\\source\\repos\\k9u2_kontofuehrung_nick\\k9u2_kontofuehrung_nick\\konto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04204D4-D658-404B-A445-1A5873367ECA}|K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick.csproj|solutionrelative:k9u2_kontofuehrung_nick\\konto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04204D4-D658-404B-A445-1A5873367ECA}|K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick.csproj|C:\\Users\\ziyul\\source\\repos\\K9U2_Kontofuehrung_Nick\\k9u2_kontofuehrung_nick\\gr\u00F6\u00DFtezahl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04204D4-D658-404B-A445-1A5873367ECA}|K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick.csproj|solutionrelative:k9u2_kontofuehrung_nick\\gr\u00F6\u00DFtezahl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gr\u00F6\u00DFteZahl.cs",
+              "DocumentMoniker": "C:\\Users\\ziyul\\source\\repos\\K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick\\Gr\u00F6\u00DFteZahl.cs",
+              "RelativeDocumentMoniker": "K9U2_Kontofuehrung_Nick\\Gr\u00F6\u00DFteZahl.cs",
+              "ToolTip": "C:\\Users\\ziyul\\source\\repos\\K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick\\Gr\u00F6\u00DFteZahl.cs",
+              "RelativeToolTip": "K9U2_Kontofuehrung_Nick\\Gr\u00F6\u00DFteZahl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T06:55:22.503Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\ziyul\\source\\repos\\K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick\\JsonFileReader.cs",
+              "RelativeDocumentMoniker": "K9U2_Kontofuehrung_Nick\\JsonFileReader.cs",
+              "ToolTip": "C:\\Users\\ziyul\\source\\repos\\K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick\\JsonFileReader.cs",
+              "RelativeToolTip": "K9U2_Kontofuehrung_Nick\\JsonFileReader.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwCUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T21:05:24.491Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ziyul\\source\\repos\\K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick\\Program.cs",
+              "RelativeDocumentMoniker": "K9U2_Kontofuehrung_Nick\\Program.cs",
+              "ToolTip": "C:\\Users\\ziyul\\source\\repos\\K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick\\Program.cs",
+              "RelativeToolTip": "K9U2_Kontofuehrung_Nick\\Program.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAQwCsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T07:22:52.074Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nutzer.cs",
+              "DocumentMoniker": "C:\\Users\\ziyul\\source\\repos\\K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick\\Nutzer.cs",
+              "RelativeDocumentMoniker": "K9U2_Kontofuehrung_Nick\\Nutzer.cs",
+              "ToolTip": "C:\\Users\\ziyul\\source\\repos\\K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick\\Nutzer.cs",
+              "RelativeToolTip": "K9U2_Kontofuehrung_Nick\\Nutzer.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T13:07:01.462Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Konto.cs",
+              "DocumentMoniker": "C:\\Users\\ziyul\\source\\repos\\K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick\\Konto.cs",
+              "RelativeDocumentMoniker": "K9U2_Kontofuehrung_Nick\\Konto.cs",
+              "ToolTip": "C:\\Users\\ziyul\\source\\repos\\K9U2_Kontofuehrung_Nick\\K9U2_Kontofuehrung_Nick\\Konto.cs",
+              "RelativeToolTip": "K9U2_Kontofuehrung_Nick\\Konto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T07:23:48.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

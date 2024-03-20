@@ -1,0 +1,8 @@
+C:\Users\ziyul\source\repos\K8U2_Primzahlen_Nick\K8U2_Primzahlen_Nick\bin\Debug\K8U2_Primzahlen_Nick.exe.config
+C:\Users\ziyul\source\repos\K8U2_Primzahlen_Nick\K8U2_Primzahlen_Nick\bin\Debug\K8U2_Primzahlen_Nick.exe
+C:\Users\ziyul\source\repos\K8U2_Primzahlen_Nick\K8U2_Primzahlen_Nick\bin\Debug\K8U2_Primzahlen_Nick.pdb
+C:\Users\ziyul\source\repos\K8U2_Primzahlen_Nick\K8U2_Primzahlen_Nick\obj\Debug\K8U2_Primzahlen_Nick.csproj.AssemblyReference.cache
+C:\Users\ziyul\source\repos\K8U2_Primzahlen_Nick\K8U2_Primzahlen_Nick\obj\Debug\K8U2_Primzahlen_Nick.csproj.SuggestedBindingRedirects.cache
+C:\Users\ziyul\source\repos\K8U2_Primzahlen_Nick\K8U2_Primzahlen_Nick\obj\Debug\K8U2_Primzahlen_Nick.csproj.CoreCompileInputs.cache
+C:\Users\ziyul\source\repos\K8U2_Primzahlen_Nick\K8U2_Primzahlen_Nick\obj\Debug\K8U2_Primzahlen_Nick.exe
+C:\Users\ziyul\source\repos\K8U2_Primzahlen_Nick\K8U2_Primzahlen_Nick\obj\Debug\K8U2_Primzahlen_Nick.pdb

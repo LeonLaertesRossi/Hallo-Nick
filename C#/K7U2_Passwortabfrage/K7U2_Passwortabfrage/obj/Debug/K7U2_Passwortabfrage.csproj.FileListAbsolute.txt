@@ -1,0 +1,11 @@
+C:\Users\ziyul\source\repos\K7U2_Passwortabfrage\K7U2_Passwortabfrage\bin\Debug\K7U2_Passwortabfrage.exe.config
+C:\Users\ziyul\source\repos\K7U2_Passwortabfrage\K7U2_Passwortabfrage\bin\Debug\K7U2_Passwortabfrage.exe
+C:\Users\ziyul\source\repos\K7U2_Passwortabfrage\K7U2_Passwortabfrage\bin\Debug\K7U2_Passwortabfrage.pdb
+C:\Users\ziyul\source\repos\K7U2_Passwortabfrage\K7U2_Passwortabfrage\obj\Debug\K7U2_Passwortabfrage.csproj.AssemblyReference.cache
+C:\Users\ziyul\source\repos\K7U2_Passwortabfrage\K7U2_Passwortabfrage\obj\Debug\K7U2_Passwortabfrage.csproj.SuggestedBindingRedirects.cache
+C:\Users\ziyul\source\repos\K7U2_Passwortabfrage\K7U2_Passwortabfrage\obj\Debug\K7U2_Passwortabfrage.Form1.resources
+C:\Users\ziyul\source\repos\K7U2_Passwortabfrage\K7U2_Passwortabfrage\obj\Debug\K7U2_Passwortabfrage.Properties.Resources.resources
+C:\Users\ziyul\source\repos\K7U2_Passwortabfrage\K7U2_Passwortabfrage\obj\Debug\K7U2_Passwortabfrage.csproj.GenerateResource.cache
+C:\Users\ziyul\source\repos\K7U2_Passwortabfrage\K7U2_Passwortabfrage\obj\Debug\K7U2_Passwortabfrage.csproj.CoreCompileInputs.cache
+C:\Users\ziyul\source\repos\K7U2_Passwortabfrage\K7U2_Passwortabfrage\obj\Debug\K7U2_Passwortabfrage.exe
+C:\Users\ziyul\source\repos\K7U2_Passwortabfrage\K7U2_Passwortabfrage\obj\Debug\K7U2_Passwortabfrage.pdb

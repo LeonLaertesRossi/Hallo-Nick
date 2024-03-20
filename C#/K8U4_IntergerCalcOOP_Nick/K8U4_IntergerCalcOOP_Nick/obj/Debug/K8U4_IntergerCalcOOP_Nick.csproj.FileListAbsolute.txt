@@ -1,0 +1,10 @@
+C:\Users\ziyul\source\repos\K8U4_IntergerCalcOOP_Nick\K8U4_IntergerCalcOOP_Nick\bin\Debug\K8U4_IntergerCalcOOP_Nick.exe.config
+C:\Users\ziyul\source\repos\K8U4_IntergerCalcOOP_Nick\K8U4_IntergerCalcOOP_Nick\bin\Debug\K8U4_IntergerCalcOOP_Nick.exe
+C:\Users\ziyul\source\repos\K8U4_IntergerCalcOOP_Nick\K8U4_IntergerCalcOOP_Nick\bin\Debug\K8U4_IntergerCalcOOP_Nick.pdb
+C:\Users\ziyul\source\repos\K8U4_IntergerCalcOOP_Nick\K8U4_IntergerCalcOOP_Nick\obj\Debug\K8U4_IntergerCalcOOP_Nick.csproj.AssemblyReference.cache
+C:\Users\ziyul\source\repos\K8U4_IntergerCalcOOP_Nick\K8U4_IntergerCalcOOP_Nick\obj\Debug\K8U4_IntergerCalcOOP_Nick.Form1.resources
+C:\Users\ziyul\source\repos\K8U4_IntergerCalcOOP_Nick\K8U4_IntergerCalcOOP_Nick\obj\Debug\K8U4_IntergerCalcOOP_Nick.Properties.Resources.resources
+C:\Users\ziyul\source\repos\K8U4_IntergerCalcOOP_Nick\K8U4_IntergerCalcOOP_Nick\obj\Debug\K8U4_IntergerCalcOOP_Nick.csproj.GenerateResource.cache
+C:\Users\ziyul\source\repos\K8U4_IntergerCalcOOP_Nick\K8U4_IntergerCalcOOP_Nick\obj\Debug\K8U4_IntergerCalcOOP_Nick.csproj.CoreCompileInputs.cache
+C:\Users\ziyul\source\repos\K8U4_IntergerCalcOOP_Nick\K8U4_IntergerCalcOOP_Nick\obj\Debug\K8U4_IntergerCalcOOP_Nick.exe
+C:\Users\ziyul\source\repos\K8U4_IntergerCalcOOP_Nick\K8U4_IntergerCalcOOP_Nick\obj\Debug\K8U4_IntergerCalcOOP_Nick.pdb
